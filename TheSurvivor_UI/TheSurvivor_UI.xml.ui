@@ -1,0 +1,30 @@
+<?xml version="1.0"?>
+<UIProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Version>1.0.2.0</Version>
+  <Name>TheSurvivor_Logo</Name>
+  <ProjectDir>C:\TheSurvivor_UI11232\TheSurvivor_UI1123\TheSurvivor_UI</ProjectDir>
+  <JsonFileName>TheSurvivor_Logo.json</JsonFileName>
+  <Resources>C:\TheSurvivor_UI11232\TheSurvivor_UI1123\TheSurvivor_UI\Resources</Resources>
+  <JsonFolder>C:\TheSurvivor_UI11232\TheSurvivor_UI1123\TheSurvivor_UI\Json</JsonFolder>
+  <JsonList>
+    <string>Logo.json</string>
+    <string>NewRole.json</string>
+    <string>GameMain.json</string>
+    <string>BagItem.json</string>
+    <string>BagBK.json</string>
+    <string>CookBK.json</string>
+    <string>SkillBK.json</string>
+    <string>AchiveBK.json</string>
+    <string>OptionBK.json</string>
+    <string>MakeBK.json</string>
+    <string>ShopBK.json</string>
+    <string>ScrollBK.json</string>
+  </JsonList>
+  <imageFileList />
+  <JsonSuffix>.json</JsonSuffix>
+  <CurrentUIJson>BagItem.json</CurrentUIJson>
+  <CanvasSize>
+    <Width>640</Width>
+    <Height>960</Height>
+  </CanvasSize>
+</UIProject>
